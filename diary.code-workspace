@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.tabSize": 2,
+		"emmet.triggerExpansionOnTab": true,
+		"emmet.syntaxProfiles": {
+			"javascript": "jsx"
+		}
+	}
+}
