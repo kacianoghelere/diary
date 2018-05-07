@@ -6,6 +6,7 @@ import NoteForm from './components/NoteForm';
 import NoteList from './components/NoteList';
 
 class App extends Component {
+  let teste
   render() {
     return (
       <div className="container pt-3 pb-3">
@@ -18,6 +19,6 @@ class App extends Component {
       </div>
     );
   }
-}
+
 
 export default App;
