@@ -5,7 +5,8 @@ import { connect } from 'react-redux';
 import NoteForm from './components/NoteForm';
 import NoteList from './components/NoteList';
 
-class App extends Component {
+class App extends Component{
+  const teste;
 
   render() {
     return (
