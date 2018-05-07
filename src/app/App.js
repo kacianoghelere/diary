@@ -6,7 +6,7 @@ import NoteForm from './components/NoteForm';
 import NoteList from './components/NoteList';
 
 class App extends Component{
-  const teste;
+  const teste
 
   render() {
     return (
