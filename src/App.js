@@ -39,6 +39,10 @@ class App extends Component {
   }
 
   render() {
+    let teste;
+
+    if (teste = '123' === '123') console.log(teste);
+
     return (
       <div className="container pt-3 pb-3">
         <div className="row">
