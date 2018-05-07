@@ -41,7 +41,7 @@ class App extends Component {
   render() {
     let teste;
 
-    if (teste = '123' === '123') console.log(teste);
+    teste = '123'
 
     return (
       <div className="container pt-3 pb-3">
