@@ -36,13 +36,9 @@ class App extends Component {
       title: '',
       body: '',
     });
-  }
+  }}
 
   render() {
-    let teste;
-
-    teste = '123'
-
     return (
       <div className="container pt-3 pb-3">
         <div className="row">
