@@ -3,7 +3,7 @@ import { database } from '../firebase';
 import { connect } from 'react-redux';
 
 import NoteForm from './components/NoteForm';
-import NoteList from './components/NoteList'
+import NoteList from './components/NoteList';
 
 class App extends Component {
   render() {
@@ -17,7 +17,7 @@ class App extends Component {
         </div>
       </div>
     );
-  }
+  
 }
 
 export default App;
