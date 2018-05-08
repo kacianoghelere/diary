@@ -11,7 +11,7 @@ const notesReducer = (state = INITIAL_STATE, action) => {
     case GET_NOTES:
       return action.payload;
     default:
-      return state
+      return state;
   }
 };
 
