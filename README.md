@@ -4,3 +4,4 @@ React + Redux + Firebase
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/64a36f9b5cf245f9b527f4c5bf963fcc)](https://www.codacy.com/app/kacianoghelere/diary?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kacianoghelere/diary&amp;utm_campaign=Badge_Grade)
 [![Ebert](https://ebertapp.io/github/kacianoghelere/diary.svg)](https://ebertapp.io/github/kacianoghelere/diary)
 [![codebeat badge](https://codebeat.co/badges/20ebb8ce-479c-49ea-b8d9-4f89624c05f6)](https://codebeat.co/projects/github-com-kacianoghelere-diary-master)
+[![CodeFactor](https://www.codefactor.io/repository/github/kacianoghelere/diary/badge)](https://www.codefactor.io/repository/github/kacianoghelere/diary)
