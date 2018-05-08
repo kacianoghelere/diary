@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { Button, ListGroup, ListGroupItem } from 'reactstrap';
 import { database } from '../../firebase';
 import { connect } from 'react-redux';
@@ -12,8 +12,6 @@ class NoteList extends React.Component {
   }
 
   renderNotes() {
-    console.log(this.props.notes);
-
     return Object.entries(this.props.notes).map(([key, value]) => (
       <ListGroupItem key={key}>
         <div>
@@ -37,7 +35,7 @@ class NoteList extends React.Component {
       <ListGroup>
         {this.renderNotes()}
       </ListGroup>
-    )
+    );
   }
 };
 

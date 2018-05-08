@@ -62,7 +62,7 @@ class NoteForm extends React.Component {
           <Button color="primary" block>Save</Button>
         </FormGroup>
       </Form>
-    )
+    );
   }
 }
 
