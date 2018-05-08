@@ -1,23 +1,13 @@
 {
-    "parserOptions": {
-        "ecmaVersion": 6,
-        "sourceType": "module",
-        "ecmaFeatures": {
-            "jsx": true
-        }
-    },
-    "rules": {
-        "semi": 2,
-    "quotes": [ 2, "single" ]
-  },
-
-  "overrides": [
-    {
-      "files": [ "bin/*.js", "lib/*.js" ],
-      "excludedFiles": "*.test.js",
-      "rules": {
-        "quotes": [ 2, "single" ]
-      }
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module",
+    "ecmaFeatures": {
+       "jsx": true
     }
-  ]
+  },
+  "rules": {
+    "semi": 2,
+    "quotes": [ 2, "single" ]
+  }
 }
