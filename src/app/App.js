@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { database } from '../firebase';
+import { database } from '../firebase'
 import { connect } from 'react-redux';
 
 import NoteForm from './components/NoteForm';
